@@ -1,5 +1,7 @@
 # 💫 About Me:
-I'm currently working on Data Science projects<br>I'm passionate about Machine Learning, Computer Vision, Natural Language Processing<br>Reach me at - goveasraina@gmail.com<br>
+- 🔭 I'm currently working on Data Science projects<br>
+- 🌱 I'm passionate about Machine Learning, Computer Vision, Natural Language Processing<br>
+- 📫 Reach me at - goveasraina@gmail.com<br>
 
 
 ## 🌐 Socials:
